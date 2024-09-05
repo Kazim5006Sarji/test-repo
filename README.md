@@ -1,3 +1,3 @@
 # это просто текст внутри файла README.md
-новые изменения в файле
+now we have some additional troubles
 необходимые для проверки
