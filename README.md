@@ -1,2 +1,3 @@
 # это просто текст внутри файла README.md
-тут изменения для конфликта
+now we have some additional troubles
+необходимые для проверки
